@@ -43,7 +43,7 @@ if __name__ == '__main__':
     #result = cv2.resize(result, None, fx=10, fy=10, interpolation=cv2.INTER_NEAREST)
 
     prefix = os.path.splitext(filename)[0]
-    resultname = prefix + "_result.png"
+    resultname = prefix + "_palette.png"
 
     cv2.imwrite(resultname, result)
 

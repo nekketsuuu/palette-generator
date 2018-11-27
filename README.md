@@ -20,7 +20,7 @@ For example, the script generates the following palette from the following icon.
 
 ## Usage
 
-The following command generates a 10x16 palette `<prefix>_result.png`.
+The following command generates a 10x16 palette `<prefix>_palette.png`.
 
 ```
 python main.py <imgpath>
