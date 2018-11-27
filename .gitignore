@@ -3,3 +3,4 @@
 *.gif
 *.bmp
 !img/*
+!default_palette.png
