@@ -12,6 +12,11 @@ For example, the script generates the following palette from the following icon.
 
 ![](https://github.com/nekketsuuu/palette-generator/blob/master/img/palette.png)
 
+## Prerequisites
+
+* cv2
+* numpy
+* sklearn (for k-means)
 
 ## Usage
 
